@@ -3,13 +3,13 @@ addEventListener('fetch', event => {
 });
 
 // Add your bot token here.
-const BOT_TOKEN = "7810709783:AAGs2TQyXtHVQyL6U-LBYHEB466mdROBDRse";
+const BOT_TOKEN = "8049048688:AAFqmE5_mNA57WEM1k9WoPuwEgk3_uWWLew";
 
 //Pro people: don't change this else your bot will be fucked.
 const API_BASE_URL = "https://probable-berti-frozenbotspvt-17e82b7b.koyeb.app";
 
 //Pro people: don't change this else your bot will be fucked.
-const ASSISTANT_ID = "7049510852";
+const ASSISTANT_ID = "7396330583";
 
 
 let songQueue = [];
